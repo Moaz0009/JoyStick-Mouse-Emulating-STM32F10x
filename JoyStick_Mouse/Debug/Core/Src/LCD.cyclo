@@ -1,0 +1,5 @@
+../Core/Src/LCD.c:7:6:Com	1
+../Core/Src/LCD.c:15:6:Data	1
+../Core/Src/LCD.c:23:6:LCD_intialise	1
+../Core/Src/LCD.c:28:6:Clear_Single_Digit	1
+../Core/Src/LCD.c:32:6:Show_Message	2
