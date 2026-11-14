@@ -1,0 +1,9 @@
+../Core/Src/Functions.c:10:15:POW	2
+../Core/Src/Functions.c:20:15:Isdigit	3
+../Core/Src/Functions.c:30:15:Ismark	5
+../Core/Src/Functions.c:36:15:Num_len	2
+../Core/Src/Functions.c:47:6:Show_Num	3
+../Core/Src/Functions.c:72:6:Show_Div	1
+../Core/Src/Functions.c:96:15:Clear_Equall	3
+../Core/Src/Functions.c:109:15:RRShift	2
+../Core/Src/Functions.c:125:15:RLShift	2

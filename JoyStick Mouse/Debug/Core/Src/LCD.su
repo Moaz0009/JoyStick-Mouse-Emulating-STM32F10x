@@ -1,0 +1,5 @@
+../Core/Src/LCD.c:7:6:Com	16	static
+../Core/Src/LCD.c:15:6:Data	16	static
+../Core/Src/LCD.c:23:6:LCD_intialise	8	static
+../Core/Src/LCD.c:28:6:Clear_Single_Digit	8	static
+../Core/Src/LCD.c:32:6:Show_Message	16	static
